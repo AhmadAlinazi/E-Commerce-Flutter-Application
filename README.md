@@ -49,7 +49,7 @@ Home Screen
 
 These are a few pictures of the application. If you want to see all the pages, you can find them in the link below.
 
-https://postimg.cc/gallery/9W6hxTG
+[https://postimg.cc/gallery/9W6hxTG](https://postimg.cc/gallery/jb8GSpV)
 
 
 # Disclaimer
